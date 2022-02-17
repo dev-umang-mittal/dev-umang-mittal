@@ -54,6 +54,57 @@ const Umang = {
 ###
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    1 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.26% 
+🌆 Daytime    12 commits     ███████████████░░░░░░░░░░   63.16% 
+🌃 Evening    6 commits      ████████░░░░░░░░░░░░░░░░░   31.58% 
+🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday       6 commits      ████████░░░░░░░░░░░░░░░░░   31.58% 
+Tuesday      4 commits      █████░░░░░░░░░░░░░░░░░░░░   21.05% 
+Wednesday    3 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.79% 
+Thursday     6 commits      ████████░░░░░░░░░░░░░░░░░   31.58% 
+Friday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+Saturday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+Sunday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               2 repos             █████████████████████████   100.0%
+
+```
+
+
+
+ Last Updated on 17/02/2022 13:49:37 UTC
 <!--END_SECTION:waka-->
 
 ## &#x1f4c8; GitHub Stats
