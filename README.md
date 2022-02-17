@@ -47,11 +47,11 @@ const Umang = {
 };
 -->
 
-### Motto
+## Motto
 
 > Weeks of Coding can save you hours of planning.
 
-###
+## Wanna look at my STATS, Here you go,
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
