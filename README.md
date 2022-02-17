@@ -53,6 +53,9 @@ const Umang = {
 
 ###
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/dev-umang-mittal/dev-umang-mittal">
