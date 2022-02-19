@@ -123,16 +123,14 @@ JavaScript               2 repos             ███████████�
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-umang-mittal&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Umang's GitHub Stats" />
 </a>
 
-<!-- Project Links
-<a href="https://github.com/nHeinz/python-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Martinz&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/dev-umang-mittal/typing-master-clone">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dev-umang-mittal&repo=typing-master-clone&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 
-<a href="https://github.com/Marz/go-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MnHeinz&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/dev-umang-mittal/node-assignment">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dev-umang-mittal&repo=node-assignment&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
--->
 
 
 ### Here's a Random Quote for you:
