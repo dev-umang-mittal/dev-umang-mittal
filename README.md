@@ -54,7 +54,7 @@ const Umang = {
 ## Wanna look at my STATS, Here you go,
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-36%20Thousand%20lines%20of%20code-blue)
 
@@ -110,7 +110,7 @@ CSS                      1 repo              ██████░░░░░�
 
 
 
- Last Updated on 19/03/2022 00:44:35 UTC
+ Last Updated on 20/03/2022 00:46:12 UTC
 <!--END_SECTION:waka-->
 
 ## &#x1f4c8; GitHub Stats
